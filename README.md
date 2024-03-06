@@ -1,0 +1,2 @@
+# StockTranslator
+ProgramaParaGerenciamentoEstoque
